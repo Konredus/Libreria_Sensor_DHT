@@ -3,7 +3,7 @@
 //Traducido por Konrad Peschka @konredus
 
 //incluimos la libreria DHT
-#include "DHT.h"
+#include <DHT.h>
 
 //este es el pin donde vamos a conectar el sensor (data)
 #define DHTPIN 2     
